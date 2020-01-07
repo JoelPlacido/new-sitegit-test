@@ -1,0 +1,14 @@
+[06/Jan/2020:20:23:10] (ℹ️): WordPress Instance Info:
+[06/Jan/2020:20:23:10] (ℹ️): Home URL : https://rsites.com.br/site-versionado-git
+[06/Jan/2020:20:23:10] (ℹ️): Site URL : https://rsites.com.br/site-versionado-git
+[06/Jan/2020:20:23:10] (ℹ️): WordPress Version : 5.3.2
+[06/Jan/2020:20:23:10] (ℹ️): Onboarding Version : 1.7.12
+[06/Jan/2020:20:23:10] (ℹ️): Multisite : No
+[06/Jan/2020:20:23:10] (ℹ️): Server Info : Apache
+[06/Jan/2020:20:23:10] (ℹ️): PHP Version : 7.0.25
+[06/Jan/2020:20:23:10] (ℹ️): HTTPS : Yes
+[06/Jan/2020:20:23:10] (ℹ️): PHP Max Execution Time : 30
+[06/Jan/2020:20:23:10] (ℹ️): PHP Max Input Vars : 1000
+[06/Jan/2020:20:23:10] (ℹ️): Max Upload Size : 268435456
+[06/Jan/2020:20:23:10] (ℹ️): Plugins:
+[06/Jan/2020:20:23:10] (ℹ️): [PLUGIN] WP Pusher : v3.0.1 (WP Pusher)
